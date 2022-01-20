@@ -1,2 +1,2 @@
-# InventoryMonitoringAtDistributionCenters
-Udacity - AWS Machine Learning Engineer - Capstone Project - Inventory Monitoring at Distribution Centers
+# Inventory Monitoring at Distribution Centers
+Udacity - AWS Machine Learning Engineer - Capstone Project
