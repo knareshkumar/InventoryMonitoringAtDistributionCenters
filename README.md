@@ -82,9 +82,6 @@ Initial code cells of sagemaker.ipynb has the steps to data download and process
 For this project I will be using the <a href="https://registry.opendata.aws/amazon-bin-imagery/" target="_blank">Amazon Bin Image Dataset</a>.
 The dataset contains 500,000 images of bins containing one or more objects. For each image there is a metadata file containing information about the image like the number of objects, it's dimension and the type of object.
 
-Download the subset of the Amazon bin image dataset[1]. 
-
-To build this project you will have to use the [Amazon Bin Images Dataset](https://registry.opendata.aws/amazon-bin-imagery/)
 Since this is a large dataset, I have used the provided code to download a small subset of that data.
 The file_list.json has the list of files to download.
 
